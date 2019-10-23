@@ -1,0 +1,1 @@
+export {clusterize} from './kMeans';

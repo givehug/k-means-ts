@@ -1,0 +1,17 @@
+{
+  "name": "kmeans-ts",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "givehug",
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  }
+}
